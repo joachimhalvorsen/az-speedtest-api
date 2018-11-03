@@ -1,0 +1,6 @@
+# Ignore build output files
+**/bin
+**/obj
+
+**/appsettings.Development.json
+**/Properties
